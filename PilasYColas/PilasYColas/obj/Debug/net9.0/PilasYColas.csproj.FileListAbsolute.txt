@@ -1,0 +1,14 @@
+C:\Users\alumno\Documents\PilasYColas\PilasYColas\PilasYColas\bin\Debug\net9.0\PilasYColas.exe
+C:\Users\alumno\Documents\PilasYColas\PilasYColas\PilasYColas\bin\Debug\net9.0\PilasYColas.deps.json
+C:\Users\alumno\Documents\PilasYColas\PilasYColas\PilasYColas\bin\Debug\net9.0\PilasYColas.runtimeconfig.json
+C:\Users\alumno\Documents\PilasYColas\PilasYColas\PilasYColas\bin\Debug\net9.0\PilasYColas.dll
+C:\Users\alumno\Documents\PilasYColas\PilasYColas\PilasYColas\bin\Debug\net9.0\PilasYColas.pdb
+C:\Users\alumno\Documents\PilasYColas\PilasYColas\PilasYColas\obj\Debug\net9.0\PilasYColas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\PilasYColas\PilasYColas\PilasYColas\obj\Debug\net9.0\PilasYColas.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\PilasYColas\PilasYColas\PilasYColas\obj\Debug\net9.0\PilasYColas.AssemblyInfo.cs
+C:\Users\alumno\Documents\PilasYColas\PilasYColas\PilasYColas\obj\Debug\net9.0\PilasYColas.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\PilasYColas\PilasYColas\PilasYColas\obj\Debug\net9.0\PilasYColas.dll
+C:\Users\alumno\Documents\PilasYColas\PilasYColas\PilasYColas\obj\Debug\net9.0\refint\PilasYColas.dll
+C:\Users\alumno\Documents\PilasYColas\PilasYColas\PilasYColas\obj\Debug\net9.0\PilasYColas.pdb
+C:\Users\alumno\Documents\PilasYColas\PilasYColas\PilasYColas\obj\Debug\net9.0\PilasYColas.genruntimeconfig.cache
+C:\Users\alumno\Documents\PilasYColas\PilasYColas\PilasYColas\obj\Debug\net9.0\ref\PilasYColas.dll
