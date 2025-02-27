@@ -40,3 +40,6 @@ Para elegir el verificador de paréntesis que quiere realizar (crear una expresi
 
 Para cambiar el proveedor de cola, seleccione la opción correspondiente en el menú de "Gestión de Colas".
 El sistema está diseñado siguiendo el principio de inversión de dependencias, por lo que añadir nuevos proveedores es tan sencillo como crear una nueva clase que implemente la interfaz `IQueueService`.
+
+# Link hacia el video de prueba
+https://drive.google.com/drive/folders/1BC4mV7llisbgHM7V7I_qOsZQlzQPE7B1?usp=sharing
